@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "rockethelp-fix",
-    "slug": "rockethelp-fix",
+    "name": "rockethelp",
+    "slug": "rockethelp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
